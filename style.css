@@ -1,0 +1,40 @@
+.titulo{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+font-size: 15px;
+color: black;
+}
+body{
+    background-image:url("background.jpg") ;
+}
+.velocidade{
+    float: left;
+}
+#disk{
+    width: 200px;
+    border-radius: 100px;
+}
+.volume{
+    float: right;
+}
+#disk2{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume,#velocidade{
+    font-size: 25px;
+    margin: 15px;
+}
+#começar {
+    width: 130px;
+    font-size: 23px;
+}
+canvas{
+    border: 5px;
+    border-style:inset ;
+    border-color: #10ebe0;
+    border-radius: 20px;
+}
